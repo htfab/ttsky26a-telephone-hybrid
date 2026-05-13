@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1731100676
+timestamp 1778679966
 << metal1 >>
 rect 3074 11099 3212 11105
 rect 3212 10961 7414 11099
@@ -261,7 +261,7 @@ timestamp 1731100676
 transform -1 0 7562 0 1 -943
 box -305 0 2996 13410
 use digipot_1hot  x2
-timestamp 1727641773
+timestamp 1778679966
 transform 1 0 0 0 1 0
 box 110 0 4330 11483
 << labels >>

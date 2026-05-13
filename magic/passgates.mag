@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1727641178
+timestamp 1778679966
 << metal2 >>
 rect 166 1866 2788 2004
 rect 268 1193 406 1601
@@ -47,47 +47,47 @@ rect 2002 1192 2062 1193
 rect 2278 1192 2338 1193
 rect 2554 1192 2614 1193
 use transistor_quartet_bus10  transistor_quartet_bus10_0
-timestamp 1727641178
+timestamp 1778679850
 transform 1 0 0 0 1 0
 box 0 0 3056 2076
 use passgate  x1
-timestamp 1727641004
+timestamp 1778679966
 transform 1 0 324 0 1 0
 box 112 42 358 2004
 use passgate  x2
-timestamp 1727641004
+timestamp 1778679966
 transform 1 0 600 0 1 0
 box 112 42 358 2004
 use passgate  x3
-timestamp 1727641004
+timestamp 1778679966
 transform 1 0 876 0 1 0
 box 112 42 358 2004
 use passgate  x4
-timestamp 1727641004
+timestamp 1778679966
 transform 1 0 1152 0 1 0
 box 112 42 358 2004
 use passgate  x5
-timestamp 1727641004
+timestamp 1778679966
 transform 1 0 1428 0 1 0
 box 112 42 358 2004
 use passgate  x6
-timestamp 1727641004
+timestamp 1778679966
 transform 1 0 1704 0 1 0
 box 112 42 358 2004
 use passgate  x7
-timestamp 1727641004
+timestamp 1778679966
 transform 1 0 1980 0 1 0
 box 112 42 358 2004
 use passgate  x8
-timestamp 1727641004
+timestamp 1778679966
 transform 1 0 2256 0 1 0
 box 112 42 358 2004
 use passgate  xdummy1
-timestamp 1727641004
+timestamp 1778679966
 transform 1 0 48 0 1 0
 box 112 42 358 2004
 use passgate  xdummy2
-timestamp 1727641004
+timestamp 1778679966
 transform 1 0 2532 0 1 0
 box 112 42 358 2004
 << end >>

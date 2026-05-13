@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1727641294
+timestamp 1778679966
 << nwell >>
 rect -48 954 524 2076
 << pwell >>
@@ -292,4 +292,6 @@ flabel metal1 100 1952 376 2010 0 FreeSans 256 0 0 0 VDD
 port 1 nsew power bidirectional
 flabel metal1 100 36 376 94 0 FreeSans 256 0 0 0 VSS
 port 2 nsew ground bidirectional
+<< properties >>
+string MASKHINTS_HVI 111 380 375 524
 << end >>

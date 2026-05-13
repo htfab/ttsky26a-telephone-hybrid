@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1731100676
+timestamp 1778679966
 << dnwell >>
 rect -606 -275 8058 16479
 << nwell >>
@@ -41,7 +41,7 @@ rect 8047 -264 8081 -238
 rect -629 -298 -569 -264
 rect 8021 -298 8081 -264
 use hybrid_ctrl  hybrid_ctrl_0
-timestamp 1731100676
+timestamp 1778679966
 transform 1 0 -110 0 1 2503
 box 110 -2503 7867 13410
 << end >>
